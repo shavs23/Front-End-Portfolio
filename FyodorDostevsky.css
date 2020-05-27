@@ -1,0 +1,51 @@
+<style>
+#img-container{
+ text-align: center; 
+}
+
+body {
+  text-align: center;
+  background-color: rgb(240,255,255);
+}
+
+main{
+  text-align: center;
+  color: black;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+ul {
+  text-align:center;
+  list-style-position: inside;
+}
+#img-container {
+  background-color: rgb(230,230,250);
+  border: 5px solid black;
+  margin: 45px 5px 45px 5px;
+  padding: 5px 0px 0px 5px;
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 256px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+
+#tribute-info{
+  border: 5px solid black;
+  margin: 45px 5px 45px 5px;
+  padding: 5px 0px 0px 5px;
+  background-color: rgb(245,255,250);
+}
+#tribute-link {
+  background-color: rgb(230,230,110);
+  border: 5px solid black;
+  margin: 5px 5px 5px 5px;
+  padding: 45px 0px 45px 5px;
+  font-family: Monospace;
+  font-size: 16px;
+  
+}
+</style>
